@@ -1,0 +1,2 @@
+# cat=basic; type=options[last 1 version,last 2 versions,last 3 versions,last 4 versions]; label=Autoprefixer Settings
+autoprefixerSettings = last 2 versions
