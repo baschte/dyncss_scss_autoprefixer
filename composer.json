@@ -2,8 +2,9 @@
 	"name": "baschte/dyncss-scss-autoprefixer",
 	"type": "typo3-cms-extension",
 	"description": "Autoprefixer with node for dyncss_scss",
-	"homepage": "http://typo3.org",
+	"homepage": "https://www.baschte.de",
 	"version": "0.1.0",
+	"license": "GPL-2.0+",
 	"require": {
 		"vladkens/autoprefixer": "^0.1",
 		"kaystrobach/dyncss": "^0.8.0",
