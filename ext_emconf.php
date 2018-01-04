@@ -13,11 +13,6 @@ $EM_CONF[$_EXTKEY] = [
         'conflicts' => [
         ],
     ],
-    'autoload' => [
-        'psr-4' => [
-            'Baschte\\DyncssScssAutoprefixer\\' => 'Classes'
-        ],
-    ],
     'state' => 'stable',
     'uploadfolder' => 0,
     'createDirs' => '',

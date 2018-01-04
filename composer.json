@@ -9,5 +9,10 @@
 		"vladkens/autoprefixer": "^0.1",
 		"kaystrobach/dyncss": "^0.8.0",
 		"kaystrobach/dyncss_scss": "^1.0.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Baschte\\DyncssScssAutoprefixer\\": "Classes"
+		}
 	}
 }
