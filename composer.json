@@ -3,11 +3,11 @@
 	"type": "typo3-cms-extension",
 	"description": "Autoprefixer with node for dyncss_scss",
 	"homepage": "https://www.baschte.de",
-	"version": "0.1.1",
+	"version": "0.2.0",
 	"license": "GPL-2.0+",
 	"require": {
 		"vladkens/autoprefixer": "^0.1",
-		"kaystrobach/dyncss": "^0.8.0",
+		"kaystrobach/dyncss": ">=0.8.3 <1.0.0",
 		"kaystrobach/dyncss_scss": "^1.0.0"
 	},
 	"autoload": {
