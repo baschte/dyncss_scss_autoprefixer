@@ -12,7 +12,7 @@ class FileParsedSlot {
      * @return array
      * @throws \AutoprefixerException
      */
-    public function afterFileParsed(string $fileContent) {
+    public function afterFileParsed($fileContent) {
 
         if(!class_exists("\Autoprefixer")){
             include_once(\TYPO3\CMS\Core\Utility\ExtensionManagementUtility::extPath('dyncss_scss_autoprefixer') . 'Resources/Private/vladkens/autoprefixer/lib/Autoprefixer.php');
