@@ -19,7 +19,7 @@ $EM_CONF[$_EXTKEY] = [
     'clearCacheOnLoad' => 1,
 		'author' => 'Sebastian Richter',
 		'author_email' => 'info@baschte.de',
-    'version' => '0.2.1',
+    'version' => '0.2.2',
 ];
 
 ?>

@@ -7,8 +7,8 @@
 	"license": "GPL-2.0+",
 	"require": {
 		"vladkens/autoprefixer": "^0.1",
-		"kaystrobach/dyncss": ">=0.8.3 <1.0.0",
-		"kaystrobach/dyncss_scss": "^1.0.0"
+		"kaystrobach/dyncss": ">=0.8.5 <1.0.0",
+		"kaystrobach/dyncss_scss": "^1.2"
 	},
 	"autoload": {
 		"psr-4": {
