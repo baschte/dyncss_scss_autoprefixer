@@ -7,7 +7,7 @@ $EM_CONF[$_EXTKEY] = [
     'constraints' => [
         'depends' => [
             'typo3'  => '6.2.0-9.0.0',
-            'dyncss'  => '0.8.3-1.0.0',
+            'dyncss'  => '0.8.3-2.0.99',
             'dyncss_scss'  => '1.0.0-2.0.99',
         ],
         'conflicts' => [
@@ -19,7 +19,7 @@ $EM_CONF[$_EXTKEY] = [
     'clearCacheOnLoad' => 1,
 		'author' => 'Sebastian Richter',
 		'author_email' => 'info@baschte.de',
-    'version' => '0.2.2',
+    'version' => '0.2.3',
 ];
 
 ?>
