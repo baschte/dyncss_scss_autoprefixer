@@ -5,11 +5,6 @@
 	"homepage": "https://www.baschte.de",
 	"version": "0.2.3",
 	"license": "GPL-2.0+",
-	"require": {
-		"vladkens/autoprefixer": "^0.1",
-		"kaystrobach/dyncss": ">=0.8.5",
-		"kaystrobach/dyncss_scss": ">=1.2"
-	},
 	"autoload": {
 		"psr-4": {
 			"Baschte\\DyncssScssAutoprefixer\\": "Classes"
